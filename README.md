@@ -20,19 +20,19 @@
 </a>
 
  <a href="https://github.com/danishyarkhwork">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=7e12f9">
 </a>
 
 <a href="https://github.com/danishyarkhwork">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=264ee4">
 </a>
 
  <a href="https://github.com/danishyarkhwork">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=e34f26">
 </a>
 
 <a href="https://github.com/danishyarkhwork">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f05133">
 </a>
 
 <a href="https://github.com/danishyarkhwork">
