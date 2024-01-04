@@ -7,10 +7,6 @@
  <a href="https://github.com/danishyarkhwork">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&animation=spin&svgfill=15d8fe">  
 </a>
-    <a href="https://github.com/danishyarkhwork">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
- </a>
- 
 <a href="https://github.com/danishyarkhwork">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
@@ -42,7 +38,27 @@
 <a href="https://github.com/danishyarkhwork">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
-
+<a href="https://github.com/danishyarkhwork">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759b">
+</a>
+<a href="https://github.com/danishyarkhwork">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql">
+</a>
+<a href="https://github.com/danishyarkhwork">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=41b883">
+</a>
+<a href="https://github.com/danishyarkhwork">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jquery&svgfill=21609b">
+</a>
+<a href="https://github.com/danishyarkhwork">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777bb3">
+</a>
+<a href="https://github.com/danishyarkhwork">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=ef3b2d">
+</a>
+<a href="https://github.com/danishyarkhwork">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma">
+</a>
 </div>
 <br /><br />
 
