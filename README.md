@@ -42,19 +42,16 @@
 </a>
  <a href="https://github.com/kazim-kayhan">
  <img src="https://camo.githubusercontent.com/9b4466f897981d005bc62552093208ec66c99c82c66d25279ccd753c8f794a1d/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d626f6f7473747261702673766766696c6c3d363539623630" data-canonical-src="https://readme-components.vercel.app/api?component=logo&amp;fill=black&amp;logo=bootstrap&amp;svgfill=659b60" style="max-width: 100%;">
-</a>
-<a href="https://github.com/kazim-kayhan">
+
 <img src="https://camo.githubusercontent.com/785885ba1820bf67e98200e204282f55cfb4fc5b8fa45c5befc30b16fd7cf5dc/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d637373332673766766696c6c3d636436373939" data-canonical-src="https://readme-components.vercel.app/api?component=logo&amp;fill=black&amp;logo=css3&amp;svgfill=cd6799" style="max-width: 100%;">
-</a>
- <a href="https://github.com/kazim-kayhan">
+
 <img src="https://camo.githubusercontent.com/ac15a2939548babff64417d2563e92367383d91f086c931cd94f2456ac5ad76b/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d68746d6c352673766766696c6c3d636436373939" data-canonical-src="https://readme-components.vercel.app/api?component=logo&amp;fill=black&amp;logo=html5&amp;svgfill=cd6799" style="max-width: 100%;">
-</a>
-<a href="https://github.com/kazim-kayhan">
+
 <img src="https://camo.githubusercontent.com/3bc3fd832788eba3fdcda9b588c8f1f14437adbb1eb53903c59c11ccdcaf628c/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d676974" data-canonical-src="https://readme-components.vercel.app/api?component=logo&amp;fill=black&amp;logo=git" style="max-width: 100%;">
-</a>
-<a href="https://github.com/kazim-kayhan">
+
+
 <img src="https://camo.githubusercontent.com/140d4facec655032d0f8d377824ec06061a700015cb26752528e75cc2104c808/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d676974687562" data-canonical-src="https://readme-components.vercel.app/api?component=logo&amp;fill=black&amp;logo=github" style="max-width: 100%;">
-</a>
+
 
   <a href="https://github.com/kazim-kayhan">
 <img src="https://camo.githubusercontent.com/7ecf1185d4279e6b102eeb1c3533be7bd9b4a1ce54da849c4eb8e0322d5a64cf/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d7765627061636b2673766766696c6c3d38656435666126616e696d6174696f6e3d7370696e" data-canonical-src="https://readme-components.vercel.app/api?component=logo&amp;fill=black&amp;logo=webpack&amp;svgfill=8ed5fa&amp;animation=spin" style="max-width: 100%;">
