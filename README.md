@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/danishyarkhwork">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=38bdf8">  
 </a>
 
  <a href="https://github.com/danishyarkhwork">
