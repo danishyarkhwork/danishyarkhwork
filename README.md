@@ -1,36 +1,11 @@
 <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/kazim-kayhan/kazim-kayhan" class="no-underline Link--primary">kazim-kayhan</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
+   
 
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto">
 <animated-image data-catalyst="" style="width: 100px;"><a target="_blank" rel="noopener noreferrer" href="/kazim-kayhan/kazim-kayhan/blob/main/wave.gif" data-target="animated-image.originalLink"><img src="/kazim-kayhan/kazim-kayhan/raw/main/wave.gif" align="center" alt="Kazim Kayhan" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/kazim-kayhan/kazim-kayhan/blob/main/wave.gif" target="_blank">
-          
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Kazim Kayhan" class="AnimatedImagePlayer-animatedImage" src="https://github.com/kazim-kayhan/kazim-kayhan/raw/main/wave.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="100" height="97"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Kazim Kayhan" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Kazim Kayhan">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Kazim Kayhan in new window" class="AnimatedImagePlayer-button" href="https://github.com/kazim-kayhan/kazim-kayhan/blob/main/wave.gif" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image> <br>
+       
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd8be644a452872e9d09c0ada30b6a5c4b074975d8b48ec132a236595464963d/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d7465787426746578743d494d2532304b415a494d2532304b415948414e2666696c6c3d3135643866652d6772616469656e74253238363264656725324325323025323338454335464325323030253235253243253230253233453043334643253230313030253235253239253342253041"><img src="https://camo.githubusercontent.com/dd8be644a452872e9d09c0ada30b6a5c4b074975d8b48ec132a236595464963d/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d7465787426746578743d494d2532304b415a494d2532304b415948414e2666696c6c3d3135643866652d6772616469656e74253238363264656725324325323025323338454335464325323030253235253243253230253233453043334643253230313030253235253239253342253041" data-canonical-src="https://readme-components.vercel.app/api?component=text&amp;text=IM%20KAZIM%20KAYHAN&amp;fill=15d8fe-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A" style="max-width: 100%;"></a> 
 </p>
 <h3 dir="auto"><a id="user-content-tools-that-i-use" class="anchor" aria-hidden="true" tabindex="-1" href="#tools-that-i-use"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Tools that I use:</h3>
@@ -88,6 +63,4 @@
 <p align="center" dir="auto"><a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&amp;followMember=kazim-kayhan" rel="nofollow">Let's connect on LinkedIn</a></p>
 
 
-
-</article>
   </div>
