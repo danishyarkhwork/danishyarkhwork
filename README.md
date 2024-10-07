@@ -3,8 +3,8 @@
 <h1 align="center">Asalamualikum (Hi)👋there, I am Khalid Danishyar</h1>
 
 <div align="left" style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://user-badge.committers.top/afghanistan/danishyarkhwork">
-    <img src="https://user-badge.committers.top/afghanistan/danishyarkhwork.svg" alt="committers.top badge">
+  <a href="https://user-badge.committers.top/afghanistan_private/danishyarkhwork">
+    <img src="https://user-badge.committers.top/afghanistan_private/danishyarkhwork.svg" alt="committers.top badge">
   </a>
   <img src="https://komarev.com/ghpvc/?username=mastooraturkmen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
   <a href="https://www.linkedin.com/in/khalid-danishyar/">
@@ -38,11 +38,12 @@ Welcome to my GitHub! 👩‍💻 👋 Hello, I’m Khalid Danishyar, a Full Sta
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Nodejs"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Svelte"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Nextjs"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Tailwind"  width="45px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Tailwind"  width="40px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind"  width="50px"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="WordPress" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
 
 <br/>
 <br/>
