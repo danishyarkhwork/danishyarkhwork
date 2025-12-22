@@ -14,6 +14,7 @@
 
 Welcome to my GitHub! 👩‍💻 👋 Hello, I’m Khalid Danishyar, a Full Stack Web Developer and WordPress Expert with five years of commercial experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Khurasan University in Jalalabad, Afghanistan, and currently, I’m pursuing my Master’s degree from Bakhtar University in Kabul. 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life. You can reach me here [Portfolio](https://khaliddanishyar.com/).
 
+Tools Based Platform: <a href="https://aslitools.com">https://aslitools.com</a><br />
 Asan Typing Application: <a href="https://asantyping.com">https://asantyping.com</a><br />
 Pashto Typing Applicaton: <a href="https://pashtotyping.com">https://pashtotyping.com</a><br />
 Persian Typing Applicaton: <a href="https://darityping.com">https://darityping.com</a><br />
