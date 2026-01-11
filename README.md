@@ -41,21 +41,3 @@ Tax Calculator Tool: <a href="https://afghantaxcalculator.com">https://afghantax
 <img align="left" alt="Shopify" width="35px" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png" style="padding-right:10px;" />
 
 <br/>
-<br/>
-<br/>
-
-## 📊 Stats
-
-<div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=danishyarkhwork&show_icons=true&theme=codeSTACKr&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishyarkhwork&layout=compact&show_icons=true&theme=codeSTACKr" />
-</div>
-
-<br/>
-
-## 🔥 Streak
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=danishyarkhwork&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=danishyarkhwork&theme=default"/>
-</picture>
